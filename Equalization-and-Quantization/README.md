@@ -59,4 +59,4 @@ Original image:
 Image after quantization to 4 quant values:
 
 
-![Monkey Quantization](resuls/monkey_quant.png)
+![Monkey Quantization](results/monkey_quant.png)
