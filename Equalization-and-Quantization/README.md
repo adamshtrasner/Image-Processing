@@ -14,6 +14,22 @@ in the range [0, Z − 1].
 7. Map the intensity values of the image using the result of step 6.
 
 For example:
+Original image:
+
+![Jerusalem](jerusalem.jpg)
+
+Original histogram:
+
+![Jerusalem Histogram](results/jerusalem_hist.png)
+
+Image after histogram equalization:
+
+![Jerusalem](jerusalem_eq.png)
+
+Histogram after equalization:
+
+![Jerusalem](jerusalem_hist_eq.png)
+
 
 
 ## Quantization
