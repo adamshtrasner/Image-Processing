@@ -16,7 +16,7 @@ in the range [0, Z − 1].
 For example:
 Original image:
 
-![Jerusalem](jerusalem.jpg)
+![Jerusalem](results/jerusalem_gray.png)
 
 Original histogram:
 
