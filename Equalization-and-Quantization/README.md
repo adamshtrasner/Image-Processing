@@ -24,11 +24,11 @@ Original histogram:
 
 Image after histogram equalization:
 
-![Jerusalem](jerusalem_eq.png)
+![Jerusalem](results/jerusalem_eq.png)
 
 Histogram after equalization:
 
-![Jerusalem](jerusalem_hist_eq.png)
+![Jerusalem](results/jerusalem_hist_eq.png)
 
 
 
