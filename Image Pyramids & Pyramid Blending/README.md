@@ -6,4 +6,5 @@ pyramid blending, and finally compared the blending results when using different
 expand and reduce operations.
 
 My blending example:
+
 ![Eiffel Tower and Noga](blended.png)
