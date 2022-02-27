@@ -5,6 +5,5 @@ blending. In this exercise I constructed Gaussian and Laplacian pyramids, and us
 pyramid blending, and finally compared the blending results when using different filters in the various
 expand and reduce operations.
 
-One of my blending examples:
-
-![Eiffel Tower and Noga]()
+My blending example:
+![Eiffel Tower and Noga](blended.png)
